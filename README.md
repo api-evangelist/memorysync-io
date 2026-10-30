@@ -64,5 +64,109 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-memorysync-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://memorysync.io/
+MemorySync provides an AI‑focused memory infrastructure platform that enables developers to store, retrieve, and orchestrate contextual memory for intelligent systems. The service offers persistent memory layers, intelligent retrieval, adaptive orchestration, and enterprise‑grade features such as multi‑tenant isolation, audit logs, and SSO. It integrates with popular AI frameworks like LangChain, LlamaIndex, and CrewAI, and supplies SDKs for Python, Node, and other languages, helping AI applications remember past interactions and improve user experiences.
+
+**Areas:** AI · Memory · Infrastructure · Platform · DeveloperTools · Company
+
+## memorysync-io on APIs.io
+
+Everything profiled for memorysync-io is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/memorysync-io/](https://apis.io/providers/memorysync-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [MemorySync API](https://apis.io/apis/memorysync-io/memorysync-api/) — Production-grade memory retention API service with vector search and summarization
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Memorysync Io Authentication](https://apis.io/security/memorysync-io/memorysync-io-authentication/)
+- [Memorysync Io Domain Security](https://apis.io/security/memorysync-io/memorysync-io-domain-security/)
+- [Memorysync Io Vulnerability Disclosure](https://apis.io/security/memorysync-io/memorysync-io-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Memorysync Io Plans Pricing](https://apis.io/plans/memorysync-io/memorysync-io-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Memorysync Io Rate Limits](https://apis.io/rate-limits/memorysync-io/memorysync-io-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://memorysync.io/)
+- [Documentation](https://docs.memorysync.io/)
+- [Getting started](https://docs.memorysync.io/quickstart)
+- [Pricing](https://memorysync.io/pricing)
+- [Sign up](https://app.memorysync.io/register)
+- [Changelog](https://memorysync.io/changelog)
+- [Blog](https://memorysync.io/blog)
+- [Security](https://memorysync.io/security)
+- [Terms of service](https://memorysync.io/legal/terms)
+- [Privacy policy](https://memorysync.io/legal/privacy)
+- [Status](https://status.memorysync.io)
+
+## API Evangelist rating
+
+**Kin Score 43.6** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 61.1 |
+| Developer ergonomics | 52.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 27.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/memorysync-io/](https://apis.io/providers/memorysync-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for memorysync-io: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/memorysync-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
